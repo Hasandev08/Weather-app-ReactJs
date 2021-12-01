@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+You can see how the project works using the link given below:
+### [Live Site](https://elated-elion-4a3297.netlify.app/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
